@@ -61,8 +61,8 @@ I have a natural intuition for problem-solving, which drives my approach to both
     </td>
     <td width="50%" valign="top">
       <img src="./images/8bit.jpg"/>
-      <h2>8 Bit Nano Processor</h2>
-      <p>Developed an 8-bit nanoprocessor from scratch using VHDL. The project involved creating every component, from half adders to the full processor, on the Vivado platform.</p>
+      <h2>4-Bit Nano Processor</h2>
+      <p>Developed an 4-bit nanoprocessor from scratch using VHDL. The project involved creating every component, from half adders to the full processor, on the Vivado platform.</p>
       <p><strong>Technologies Used:</strong> VHDL, Vivado</p>
       <p><strong>Role:</strong> Co-developer</p>
       <p><a href="https://github.com/PavithaDissanayake/NanoProcessor">View Repository</a></p>
