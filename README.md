@@ -15,7 +15,7 @@ Hello 👋. I am a 3rd-year computer science engineering student at the Universi
 </details>
 
 ## Technical Skills
-- **Tools**: Proficient in VSCode, Android Studio, Jupyter Notebooks and Kaggle.
+- **Tools**: Proficient in VSCode, Android Studio, Arduino, Jupyter Notebooks and Kaggle.
 - **Programming Languages**: Skilled in Python, C++, and Java.
 - **Data Science Tools**: Experienced with Python libraries such as pandas, numpy, matplotlib, Tensorflow
 - **Web Development**: Proficient in building web applications using Streamlit, experienced in using HTML, React and NextJs
