@@ -74,15 +74,15 @@ I have a natural intuition for problem-solving, which drives my approach to both
 
 1. **Credit Risk Management (ML Project)**
    - **Description**: Worked on a machine learning project to predict and manage loan default risks. The project involved analyzing financial data to enhance the accuracy of predictions.
-   - **Role**: Team member of five.
+   - **Role**: Team member of five
 
 2. **Data Analysis for Human Resource (DS Project)**
    - **Description**: Conducted a data analysis project, focusing on employee attrition using data from a company’s ERP system.
-   - **Role**: Team member of five.
+   - **Role**: Team member of five
   
 3. **Operating Systems Project with Pintos**
    - **Description**: Gained insights into OS functionalities through a mini project using the Pintos operating system.
-   - **Role**: Sole developer.
+   - **Role**: Sole developer
 
 ## Academic Background
 - **Current**: 3rd-year undergraduate, Department of Computer Science and Engineering, University of Moratuwa, specializing in Data Science.
@@ -93,7 +93,7 @@ I have a natural intuition for problem-solving, which drives my approach to both
 I have actively participated in several coding competitions throughout my academic journey. While I have often reached the final rounds, I have yet to secure a win. However, these experiences have significantly enhanced my problem-solving skills and deepened my understanding of algorithmic challenges.
 
 ## Contact Information
-- **Email**: Personal - [pavithadissanayake@gmail.com](mailto:pavithadissanayake@gmail.com) | Department of CSE - [pavitha.21@cse.mrt.ac.lk](pavitha.21@cse.mrt.ac.lk)
+- **Email**: Personal - [pavithadissanayake@gmail.com](mailto:pavithadissanayake@gmail.com) | Department of CSE - [pavitha.21@cse.mrt.ac.lk](mailto:pavitha.21@cse.mrt.ac.lk)
 - **Phone Number**: +94714807799
 - **LinkedIn**: [Pavitha Dissanayake](http://www.linkedin.com/in/pavitha-dissanayake-b1216a23a)
 - **Instagram**: [PavithaDissanayake](https://www.instagram.com/perz3us)
