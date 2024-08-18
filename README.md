@@ -88,7 +88,7 @@ I have a natural intuition for problem-solving, which drives my approach to both
 - **Current**: 3rd-year undergraduate, Department of Computer Science and Engineering, University of Moratuwa, specializing in Data Science.
 - **A/L Examination**: Achieved A3 in the Physical Science stream, ranked 1st in the district and 32nd island-wide.
 - **O/L Examination**: Scored A9, including Tamil and Information Technology
-- **School**: Attended Maliyadeva College, Kurunegala after excelling in the grade 5 scholarship exam.
+- **School**: Attended Maliyadeva College, Kurunegala after excelling in the grade 5 scholarship exam. Attended A/Sri Siddhartha Central College until grade 5.
 
 I have actively participated in several coding competitions throughout my academic journey. While I have often reached the final rounds, I have yet to secure a win. However, these experiences have significantly enhanced my problem-solving skills and deepened my understanding of algorithmic challenges.
 
