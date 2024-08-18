@@ -1,7 +1,5 @@
 # Computer Science Engineering Undergrad Specializing in Data Science with a Passion for Machine Learning in Video Game Development
 
-<img src="./images/wp6195787.jpg"/>
-
 Hello 👋. I am a 3rd-year computer science engineering student at the University of Moratuwa, specializing in data science. My academic journey has equipped me with strong analytical and problem-solving skills, which I am eager to apply in game development. I am particularly interested in NPC AI and reinforcement learning for games, and I am focused on honing my skills in these areas as I prepare to advance in the field.
 
 <details><Summary>Navigate</Summary>
