@@ -73,12 +73,16 @@ I have a natural intuition for problem-solving, which drives my approach to both
 1. **Credit Risk Management (ML Project)**
    - **Description**: Worked on a machine learning project to predict and manage loan default risks. The project involved analyzing financial data to enhance the accuracy of predictions.
    - **Role**: Team member of five
+  
+2. **Sustainable Urban Living (Kaggle competition)**
+   - **Description**: Participated in the "ML Olympiad - Sustainable Urban Living" Kaggle competition, using machine learning techniques to develop a model that predicts the habitability score of a property based on available details.
+   - **Role**: Sole developer
 
-2. **Data Analysis for Human Resource (DS Project)**
+4. **Data Analysis for Human Resource (DS Project)**
    - **Description**: Conducted a data analysis project, focusing on employee attrition using data from a company’s ERP system.
    - **Role**: Team member of five
   
-3. **Operating Systems Project with Pintos**
+5. **Operating Systems Project with Pintos**
    - **Description**: Gained insights into OS functionalities through a mini project using the Pintos operating system.
    - **Role**: Sole developer
 
