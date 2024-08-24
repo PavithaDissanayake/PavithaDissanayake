@@ -92,4 +92,3 @@ I have actively participated in several coding competitions throughout my academ
 - **Email**: Personal - [pavithadissanayake@gmail.com](mailto:pavithadissanayake@gmail.com) | Department of CSE - [pavitha.21@cse.mrt.ac.lk](mailto:pavitha.21@cse.mrt.ac.lk)
 - **Phone Number**: (+94) 71 480 7799
 - **LinkedIn**: [Pavitha Dissanayake](http://www.linkedin.com/in/pavitha-dissanayake-b1216a23a)
-- **Instagram**: [PavithaDissanayake](https://www.instagram.com/perz3us)
