@@ -70,14 +70,14 @@ I have a natural intuition for problem-solving, which drives my approach to both
     <td width="50%" valign="top">
       <h2>AI Chess Agent</h2>
       <p>An ongoing project on creating an AI agent to play chess by learning from a dataset. The dataset is synthesized using a minimax chess agent.</p>
-      <p><strong>Technologies Used:</strong> Kaggle, python, Scikit Learn</p>
+      <p><strong>Technologies Used:</strong> Kaggle, python, Scikit Learn, python-chess</p>
       <p><strong>Role:</strong> Sole developer</p>
       <p><a href="https://www.kaggle.com/code/pavitha210146n/chess-agents">View Notebook</a></p>
     </td>
     <td width="50%" valign="top">
       <h2>Text summarization</h2>
       <p>A simple text summarization system using TF-IDF Vectorizer for scoring and Facebook's BART model for generating summaries</p>
-      <p><strong>Technologies Used:</strong> Kaggle, python, NLTK</p>
+      <p><strong>Technologies Used:</strong> Kaggle, python, NLTK, BeautifulSoup, SciKit Learn</p>
       <p><strong>Role:</strong> Sole developer</p>
       <p><a href="https://www.kaggle.com/code/pavitha210146n/summarize">View Notebook</a></p>
     </td>
