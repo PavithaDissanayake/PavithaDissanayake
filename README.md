@@ -1,3 +1,5 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 # Computer Science Engineering Undergrad Specializing in Data Science with a Passion for Machine Learning in Video Game Development
 
 Hello 👋. I am a 3rd-year computer science engineering student at the University of Moratuwa, specializing in data science. My academic journey has equipped me with strong analytical and problem-solving skills, which I am eager to apply in game development. I am particularly interested in NPC AI and reinforcement learning for games, and I am focused on honing my skills in these areas as I prepare to advance in the field.
@@ -107,4 +109,4 @@ I have actively participated in several coding competitions throughout my academ
 ## Contact Information
 - **Email**: Personal - [pavithadissanayake@gmail.com](mailto:pavithadissanayake@gmail.com) | Department of CSE - [pavitha.21@cse.mrt.ac.lk](mailto:pavitha.21@cse.mrt.ac.lk)
 - **Phone Number**: (+94) 71 480 7799
-- **LinkedIn**: [Pavitha Dissanayake](http://www.linkedin.com/in/pavitha-dissanayake-b1216a23a)
+- <i class="devicon-linkedin-plain"></i> **LinkedIn**: [Pavitha Dissanayake](http://www.linkedin.com/in/pavitha-dissanayake-b1216a23a)
